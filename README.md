@@ -8,12 +8,7 @@ I recently graduated from Toronto Metropolitan University with a degree in Compu
 I love building things that serve a purpose and make people's lives easier, from tools to full-stack web apps.
 Most importantly, I am always learning!
 
-Check out my portfolio!
-
-## 🌐 Connect With Me
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/martin-kamburov-a906b325b/)
-[![Portfolio](https://img.shields.io/badge/Website-000000?logo=About.me&logoColor=white)](https://martinkamburov.com/)
+🎯 Check out my portfolio here → [**martinkamburov.com**](https://martinkamburov.com)
 
 ## Tech Stack
 
@@ -57,4 +52,9 @@ Check out my portfolio!
 <img align="left" alt="Raspberry Pi" width="40px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/raspberrypi/raspberrypi-original.svg" />
 <img align="left" alt="Arduino" width="40px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/arduino/arduino-original.svg" />  
 <br />
+
+## 🌐 Connect With Me
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/martin-kamburov-a906b325b/)
+
 
