@@ -10,7 +10,10 @@ Most importantly, I am always learning!
 
 🎯 Check out my portfolio → <a href="https://martinkamburov.com"><b>martinkamburov.com</b></a>
 
-While you're at it, check out my LinkedIn → [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/martin-kamburov)
+While you're at it, check out my LinkedIn →
+<a href="https://www.linkedin.com/in/martin-kamburov" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5.svg?logo=linkedin&logoColor=white" alt="LinkedIn" style="vertical-align:middle; margin-bottom:3px;" />
+</a>
 
 
 ## Tech Stack
