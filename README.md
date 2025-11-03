@@ -8,7 +8,7 @@ I recently graduated from Toronto Metropolitan University with a degree in Compu
 I love building things that serve a purpose and make people's lives easier, from tools to full-stack web apps.
 Most importantly, I am always learning!
 
-🎯 Check out my portfolio → <a href="https://martinkamburov.com"><b>martinkamburov.com</b></a>
+Check out my portfolio → <a href="https://martinkamburov.com"><b>martinkamburov.com</b></a>
 
 While you're at it, check out my <a href="https://www.linkedin.com/in/martin-kamburov-a906b325b/"><b>LinkedIn</b></a>
 
