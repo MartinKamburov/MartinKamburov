@@ -48,10 +48,14 @@ Most importantly, I am always learning!
 <img align="left" alt="Linux" width="40px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg"/>
 <br />
 
+---
+
 ### 🤖 IoT & Hardware
 <img align="left" alt="Raspberry Pi" width="40px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/raspberrypi/raspberrypi-original.svg" />
 <img align="left" alt="Arduino" width="40px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/arduino/arduino-original.svg" />  
 <br />
+
+---
 
 ## 🌐 Connect With Me
 
