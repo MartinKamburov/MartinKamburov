@@ -12,6 +12,7 @@ Most importantly, I am always learning!
 🎯 Check out my portfolio here → [**martinkamburov.com**](https://martinkamburov.com)
 <br />
 
+💬 Connect with me →
 <a href="https://www.linkedin.com/in/martin-kamburov/" target="_blank">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" height="35"/>
 </a>
