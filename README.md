@@ -10,12 +10,12 @@ Most importantly, I am always learning!
 
 🎯 Check out my portfolio → <a href="https://martinkamburov.com"><b>martinkamburov.com</b></a>
 
-While you're at it, check out my LinkedIn →
+While you're at it, check out my LinkedIn:
+<br />
 <a href="https://www.linkedin.com/in/martin-kamburov" target="_blank">
   <img
     src="https://img.shields.io/badge/LinkedIn-0077B5.svg?logo=linkedin&logoColor=white"
     alt="LinkedIn"
-    style="padding-top 5px"
   />
 </a>
 
