@@ -8,7 +8,14 @@ I recently graduated from Toronto Metropolitan University with a degree in Compu
 I love building things that serve a purpose and make people's lives easier, from tools to full-stack web apps.
 Most importantly, I am always learning!
 
+
 🎯 Check out my portfolio here → [**martinkamburov.com**](https://martinkamburov.com)
+<br />
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/martin-kamburov-a906b325b/)
+
+<br />
+
 
 ## Tech Stack
 
@@ -56,8 +63,6 @@ Most importantly, I am always learning!
 <br />
 
 ---
-
-## 🌐 Connect With Me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/martin-kamburov-a906b325b/)
 
