@@ -13,9 +13,7 @@ Most importantly, I am always learning!
 <br />
 
 💬 Connect with me →
-<a href="https://www.linkedin.com/in/martin-kamburov/" target="_blank">
-  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" height="35"/>
-</a>
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" height="35"/>
 
 ## Tech Stack
 
