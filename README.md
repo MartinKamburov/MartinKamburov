@@ -32,9 +32,7 @@ While you're at it, check out my <a href="https://www.linkedin.com/in/martin-kam
 <img align="left" alt="Apache Kafka" width="40px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/apachekafka/apachekafka-original.svg" />
 <img align="left" alt="PySpark" width="40px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/apachespark/apachespark-original.svg" />
 <img align="left" alt="dbt" width="40px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/gilbarbara/logos@main/logos/dbt-icon.svg" />
-<img align="left" alt="Pydantic" width="40px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/gilbarbara/logos@main/logos/pydantic.svg" />
-<img align="left" alt="Webhooks" width="40px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/gilbarbara/logos@main/logos/webhooks.svg" />
-<br />
+<img align="left" alt="Pydantic" width="40px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/gilbarbara/logos@main/logos/pydantic-icon.svg" />
 
 ---
 
